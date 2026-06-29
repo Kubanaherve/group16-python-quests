@@ -1,4 +1,5 @@
-health = 100
-health -= 25
-health += 10
-print(health)
+hp = 100
+hp -= 20
+print("Damage taken:", hp)
+hp += 10
+print("Recovered:", hp)
