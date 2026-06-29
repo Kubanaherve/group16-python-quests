@@ -1,0 +1,10 @@
+#!usr/bin/env python3 
+secret_number = 7
+guess = 0
+
+while guess != secret_number:
+    guess = int(input("Guess the number: "))
+    if guess != secret_number:
+        print("Wrong! Try again.")
+
+print("Correct! You got it!")
