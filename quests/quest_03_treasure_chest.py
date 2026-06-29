@@ -1,3 +1,2 @@
-age = 20
-food = "pizza"
-print(age, food)
+age = int(input("Enter age: "))
+print("Next year you will be", age + 1)
