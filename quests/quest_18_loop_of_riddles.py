@@ -1,3 +1,4 @@
+#!usr/bin/env python3 
 secret_number = 7
 guess = 0
 
