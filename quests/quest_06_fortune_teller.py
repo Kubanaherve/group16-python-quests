@@ -7,4 +7,3 @@ print("Welcome", name)
 
 print("Your quest is:", quest)
 
-# added input validation idea
