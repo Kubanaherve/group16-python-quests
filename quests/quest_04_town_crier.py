@@ -1,4 +1,2 @@
-city = "Kigali"
-year = 2026
-name = "Cynthia"
-print(f"{city} {year} {name}")
+city = input("City: ")
+print(f"Announcement: Welcome to {city}!")
