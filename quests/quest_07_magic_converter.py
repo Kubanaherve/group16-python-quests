@@ -5,4 +5,3 @@ age = 2026 - birth_year
 
 print("Your age is:", age)
 
-# added age calculation logic
