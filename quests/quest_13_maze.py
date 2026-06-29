@@ -1,3 +1,5 @@
+# Quest 13: Maze of Many Choices
+# Concept: if-elif-else
 score = int(input("Enter your score (0-100): "))
 if score >= 90:
     print("Grade: A")

@@ -1,3 +1,5 @@
+# Quest 14: The Logical Gatekeeper
+# Concept: and/or logical operators
 age = int(input("Enter your age: "))
 gold = int(input("Enter your gold coins: "))
 if age >= 18 and gold >= 20:
