@@ -1,4 +1,2 @@
-hero_name = "Cynthia"
-power = "wisdom"
-print(hero_name, power)
-# Added clarity to variables
+hero_name = input("Enter your hero name: ")
+print(f"Welcome {hero_name}, chosen one!")
