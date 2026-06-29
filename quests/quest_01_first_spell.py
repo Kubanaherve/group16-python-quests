@@ -1,2 +1,3 @@
 print("Welcome, brave adventurer!")
 print("You have entered Python world.")
+# Improved formatting for Quest 1
